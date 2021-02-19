@@ -8,7 +8,7 @@ PublicWebsite
 A public website of Billinge group for the frequently asked questions from the collaborators
 
 * Free software: 3-clause BSD license
-* Documentation: https://st3107.github.io/publicwebsite.
+* Documentation: https://billingegroup.github.io/PublicWebsite/
 
 Features
 --------
