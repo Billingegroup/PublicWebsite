@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PublicWebsite Documentation
-===========================
+Welcome to the notice board of Billinge Group!
+==============================================
 
 .. toctree::
    :maxdepth: 2
