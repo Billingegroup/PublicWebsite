@@ -22,3 +22,11 @@ For collaborators:
 #. Mail the package to the address written on the shipping label.
 
 #. When you mail the sample, if the client from the shipping company ask you to remove the shipping label outside, please insist keeping it. It is the important label for BNL stuffs to recognize your samples.
+
+Beamtime History
+----------------
+
+May 5 2021 8:00 AM - May 7 2021 8:00 AM
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+28-ID-1 beamline Proposal 303141
