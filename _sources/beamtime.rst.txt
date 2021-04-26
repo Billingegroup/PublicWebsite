@@ -13,11 +13,13 @@ Please watch the following two videos on how to load powder into capillaries.
 
 Here, we have some notes for the video:
 
-#. In the video, the eproxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
+1. In the video, the eproxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
 
-#. A labeled flag can be attached to the top of the capillaries so that it will be easier to identify the sample. Below, we list the technical standard for the sample loading at 28-ID-1 and 28-ID-2 beamlines:
+#. A labeled flag can be attached to the top of the capillaries so that it will be easier to identify the sample.
 
-#. We will be using capillaries only of size (OD) ~ 1 mm (~0.0402”), ~1.2mm (0.0435”), ~1.5mm (~0.0615”), or ~2mm (~0.075”).
+Below, we list the technical standard for the sample loading at 28-ID-1 and 28-ID-2 beamlines:
+
+1. We will be using capillaries only of size (OD) ~ 1 mm (~0.0402”), ~1.2mm (0.0435”), ~1.5mm (~0.0615”), or ~2mm (~0.075”).
 
 #. The capillaries must have the proper length. Powder must be packed inside the capillary as per the drawing below.
 
