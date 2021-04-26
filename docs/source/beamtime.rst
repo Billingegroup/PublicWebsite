@@ -29,7 +29,7 @@ Below, we list the technical standard for the sample loading at 28-ID-1 and 28-I
 
 #. Sample capillaries will be inserted into the multiple sample holder (as show in the picture below). Each holder can hold max 45 including a calibrant on both side (43 + 2).
 
-.. |Capillaries| image:: _static/capillaries_photo.png
+.. image:: _static/capillaries_photo.png
 
 Sample shipment during the remote access
 ----------------------------------------
