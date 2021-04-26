@@ -13,19 +13,19 @@ Please watch the following two videos on how to load powder into capillaries.
 
 Here, we have some notes for the video:
 
-1. In the video, the eproxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
+#. In the video, the eproxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
 
-1. A labeled flag can be attached to the top of the capillaries so that it will be easier to identify the sample. Below, we list the technical standard for the sample loading at 28-ID-1 and 28-ID-2 beamlines:
+#. A labeled flag can be attached to the top of the capillaries so that it will be easier to identify the sample. Below, we list the technical standard for the sample loading at 28-ID-1 and 28-ID-2 beamlines:
 
-1. We will be using capillaries only of size (OD) ~ 1 mm (~0.0402”), ~1.2mm (0.0435”), ~1.5mm (~0.0615”), or ~2mm (~0.075”).
+#. We will be using capillaries only of size (OD) ~ 1 mm (~0.0402”), ~1.2mm (0.0435”), ~1.5mm (~0.0615”), or ~2mm (~0.075”).
 
-1. The capillaries must have the proper length. Powder must be packed inside the capillary as per the drawing below.
+#. The capillaries must have the proper length. Powder must be packed inside the capillary as per the drawing below.
 
-1. Each sample in its capillary should be in one vial/Ziplock pouch/container along with the sample number label
+#. Each sample in its capillary should be in one vial/Ziplock pouch/container along with the sample number label
 
-1. Labels should be less than 5mm wide and attached as close as possible on the top side. Place tags at 2 different heights so that samples can be mounted in a consecutive order with alternating tag positions: high, low, high etc.(as shown in the picture) – otherwise labels of adjacent capillaries touch each other.
+#. Labels should be less than 5mm wide and attached as close as possible on the top side. Place tags at 2 different heights so that samples can be mounted in a consecutive order with alternating tag positions: high, low, high etc.(as shown in the picture) – otherwise labels of adjacent capillaries touch each other.
 
-1. Sample capillaries will be inserted into the multiple sample holder (as show in the picture below). Each holder can hold max 45 including a calibrant on both side (43 + 2).
+#. Sample capillaries will be inserted into the multiple sample holder (as show in the picture below). Each holder can hold max 45 including a calibrant on both side (43 + 2).
 
 Sample shipment during the remote access
 ----------------------------------------
