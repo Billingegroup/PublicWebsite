@@ -64,3 +64,5 @@ May 17 2021 8:00 AM - May 19 2021 8:00 AM
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 28-ID-2 beamline Proposal 303141
+
+`script <https://github.com/Billingegroup/bluesky_scanplans/blob/master/scanplans/plans20210517.py>`_ and `spreadsheet <https://drive.google.com/file/d/1ocqKXq7DqaAFESUXpp7vcLtqGJ8USyxG/view?usp=sharing>`_
