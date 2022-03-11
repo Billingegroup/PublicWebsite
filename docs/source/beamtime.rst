@@ -11,22 +11,29 @@ BG contact person: Your scientific project partner in the Billinge group
 
 1. Read the information on this webpage to get an overview of what to do. There are instructions for the sample loading and shipping. Take note of any questions or concerns you have.
 2. Meet with contact person in BG to discuss sample loading and shipment.
+
   a. What sample holders are needed (glass, Kapton etc), do you have them available?
   #. How do you plan on packaging them for shipping?
   #. Will the samples be difficult to prepare in any way? Stickiness, large grain size, only small amount of powder etc?
   #. Where will the samples be sent - to Columbia University or directly to BNL?
+
 3. Fill in the sample information `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSfHb-ASZHIcwedvKZz-z-6hQ6BO7fgUq2dai07DOY-XDt5jrg/viewform?usp=sf_link>`_.
+
   a.Make sure each sample is listed with content, label and container type (glass/Kapton etc).
   #. Make sure to list the backgrounds. A background is a clean and empty sample holder  of the same type that you used for the samples. If you used more than one type, a background holder needs to be added for each.
+
 4. Load the samples according to the agreement and the information you put in the Google Form.
+
   a. Follow instructions for getting powder into tubes in the video link below.
   #. For each sample holder type (glass, Kapton etc) include a clean and empty holder that can be used for background measurement.
   #. Label each sample according to the information in the Google Form such that it is clear what it contains (don't forget to label the backgrounds!). If you cannot fit a good enough description on the sample label itself, use numbers or letter on the label and then include a note that explains what each number/letter corresponds to. See instruction for labeling in the video link below.
+
 5. Take a picture of the samples and their labels.
 6. Package the samples. Use bubble wrap/cotton balls or similar for shock absorption.
 7. Take a picture of the entire content.
 8. Package the samples snuggly in an appropriate box or padded envelope.
 9. Send your packages.
+
   a. If you will send the package to Columbia University, below is the address.
 
     | Columbia University
