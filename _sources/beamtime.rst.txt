@@ -2,6 +2,55 @@
 Beamtime Information
 ====================
 
+Checklist for Collaborators
+---------------------------
+
+Beamtime responsible: Songsheng Tao & Connor Bracy
+
+BG contact person: Your scientific project partner in the Billinge group
+
+1. Read the information on this webpage to get an overview of what to do. There are instructions for the sample loading and shipping. Take note of any questions or concerns you have.
+2. Meet with contact person in BG to discuss sample loading and shipment.
+
+  a. What sample holders are needed (glass, Kapton etc), do you have them available?
+  #. How do you plan on packaging them for shipping?
+  #. Will the samples be difficult to prepare in any way? Stickiness, large grain size, only small amount of powder etc?
+  #. Where will the samples be sent - to Columbia University or directly to BNL?
+
+3. Fill in the sample information `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSfHb-ASZHIcwedvKZz-z-6hQ6BO7fgUq2dai07DOY-XDt5jrg/viewform?usp=sf_link>`_.
+
+  a.Make sure each sample is listed with content, label and container type (glass/Kapton etc).
+  #. Make sure to list the backgrounds. A background is a clean and empty sample holder  of the same type that you used for the samples. If you used more than one type, a background holder needs to be added for each.
+
+4. Load the samples according to the agreement and the information you put in the Google Form.
+
+  a. Follow instructions for getting powder into tubes in the video link below.
+  #. For each sample holder type (glass, Kapton etc) include a clean and empty holder that can be used for background measurement.
+  #. Label each sample according to the information in the Google Form such that it is clear what it contains (don't forget to label the backgrounds!). If you cannot fit a good enough description on the sample label itself, use numbers or letter on the label and then include a note that explains what each number/letter corresponds to. See instruction for labeling in the video link below.
+
+5. Take a picture of the samples and their labels.
+6. Package the samples. Use bubble wrap/cotton balls or similar for shock absorption.
+7. Take a picture of the entire content.
+8. Package the samples snuggly in an appropriate box or padded envelope.
+9. Send your packages.
+
+  a. If you will send the package to Columbia University, below is the address.
+
+    | Columbia University
+    | 1105 S.W. Mudd
+    | 500 W 120th St
+    | New York, NY 10027
+
+  b. If you will send the package to BNL, please wait for the beamline responsible to send you **the samples shipping label**. Print out the shipping label and attach the upper part outside the package.
+
+    | NSLS-II
+    | 740 Brookhaven Avenue
+    | Bldg. 740 – Loading Dock
+    | Upton, NY 11973-5000
+
+10. Send all three pictures to your BG contact person and beamtime responsible and wait for them to give thumbs up that everything looks alright.
+11. Post your package!
+
 Load powder into capillaries
 ----------------------------
 
@@ -30,27 +79,6 @@ Below, we list the technical standard for the sample loading at 28-ID-1 and 28-I
 #. Sample capillaries will be inserted into the multiple sample holder (as show in the picture below). Each holder can hold max 45 including a calibrant on both side (43 + 2).
 
 .. image:: _static/capillaries_photo.png
-
-Sample shipment during the remote access
-----------------------------------------
-
-For collaborators:
-
-1. Give the students in Billinge group the information about your sample and what kind of data you would like to get from it.
-
-#. The student will reach out to you talk about the plan.
-
-#. The student will give you the tubes for your samples if they are powder.
-
-#. Load the samples into the tube following the instructions given by the student and seal them properly.
-
-#. About one week before the beamtime, you will receive a document called "shipping label" from the student.
-
-#. Print the label out, write down your home institution address on the shipping label, split the label into half and **attach the upper part outside your sample package**.
-
-#. Mail the package to the address written on the shipping label.
-
-#. When you mail the sample, if the client from the shipping company ask you to remove the shipping label outside, please insist keeping it. It is the important label for BNL stuffs to recognize your samples.
 
 Beamtime History
 ----------------
