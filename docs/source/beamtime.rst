@@ -80,17 +80,3 @@ Below, we list the technical standard for the sample loading at 28-ID-1 and 28-I
 
 .. image:: _static/capillaries_photo.png
 
-Beamtime History
-----------------
-
-May 5 2021 8:00 AM - May 7 2021 8:00 AM
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-28-ID-1 beamline Proposal 303141
-
-May 17 2021 8:00 AM - May 19 2021 8:00 AM
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-28-ID-2 beamline Proposal 303141
-
-`script <https://github.com/Billingegroup/bluesky_scanplans/blob/master/scanplans/plans20210517.py>`_ and `spreadsheet <https://drive.google.com/file/d/1ocqKXq7DqaAFESUXpp7vcLtqGJ8USyxG/view?usp=sharing>`_
