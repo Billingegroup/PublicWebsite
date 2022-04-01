@@ -2,55 +2,75 @@
 Beamtime Information
 ====================
 
+Contacts in the Billinge-group
+------------------------------
+* Beamtime responsible (on-site at experiment): **Connor Bracy (cjb2250@columbia.edu)**
+* BG contact person (not necessarily on-site at experiment): Your scientific project partner in the Billinge group
+
+
+Experiment Critical deadlines
+-----------------------------
+* T0 = first day of the experiment
+* T0 - 18 days: Finalize experiment plan with your BG contact person (collaborator)
+* T0 - 16 days: fill out Detailed Experiment Plan Google Form (collaborator) 
+* T0 - 14 days: send info so BG can submit `Safety Approval form (SAF) to BNL for approval <https://www.bnl.gov/nsls2/userguide/before-arrival.php>`
+* T0 - 3 business days : samples received at BNL or by beamtime responsible at Columbia, if they are not being hand-carried by you (see below)
+* T0 - 1 day: travel to BNL (only if you are going. Check with Beamtime Responsible whether you need to be there earlier for training etc.)
+* T0: start experiment
+
+
 Checklist for Collaborators
 ---------------------------
+1. **Meet with your contact person in BG to discuss experimental plan**
+* Generate list of all samples including calibration and empty container samples (for background)
+* Temperatures, temperature ranges, special environments
+* What sample holders are needed (glass, Kapton etc. - consider temperature requirements), do you have them available?
+* How do you plan on packaging them for shipping?
+* Will the samples be difficult to prepare in any way? Stickiness, large grain size, only small amounts of powder etc?
+* Where will the samples be sent - BG beamtime responsible or directly to BNL (see below) and when should they be sent?
+2. **Submit the Detailed Experiment Plan Information using the `Google Form <https://forms.gle/cMGgdg8PFwBoareC9>`_**
+* Submit the form once for every individual sample.  This information is used to generate the scan-plans which is why we need one for each sample.
+* Additionally submit the form once for every different background sample, e.g., an empty sample container.
+* If you need multiple different scan plans for the same sample, enter these separately as if they were different samples (ask BG contact for clarification)
+3. **Prepare the samples in your laboratory.**
+* Check with BG contact for best loading strategy, e.g., temperature appropriate container materials
+* Instructions for loading powder into tubes can be found in :ref:`the section on sample preparation`.
+* For each sample holder type (glass, Kapton etc) you will need to include clean and empty holders that can be used for background measurement.  
+* As needed, include spare samples and holders in case of breakage 
+* Label each sample with the sample-name that was entered in the Google Form (don't forget to label the backgrounds!). If you cannot fit a good enough description on the sample itself, use a code on the label and then include a note in the shipping package that links each code to the sample name in the form. See instruction for labeling in :ref:`the section on sample preparation`.
+4. **Take a picture of the samples and their labels**
+* Send the picture to your BG contact and the BG experiment responsible
+5. **Wrap the individual samples in protective material**
+* Use bubble wrap/cotton balls or similar for shock absorption to secure the samples
+* If you have glass capillaries inside glass jars, stuff cotton padding around it so it doesn’t shake around.
+6. **Take a picture of all the individually padded/secured samples**
+* Send the picture to your BG contact and the BG experiment responsible
+7. **Package the samples snuggly in an appropriate box or padded envelope**
+8. **Prepare the shipping label.**
+* Samples should be shipped using tracked services such as FedEx.
+* Samples arriving at BNL but not making it to the beamline because of an incomplete shipping label, or arriving too late, are the most common point of failure.  Please pay close attention to the instructions for labeling and shipping samples.
+* Samples can be received at BNL on weekdays (M-F from 9-5).  They must have a BNL designated shipping label that includes the SAF-number (safety approval form) that you should receive from the beamline responsible in the Billinge group.  
+* Using the BNL shipping label and sending directly to the beamline is the preferred way of shipping samples.  However, note that the label is only available after the SAF is approved and this may be delayed if there are any issues with the SAF.  In this case, in order for samples to arrive in time, they can be sent directly to the Beamline Responsible person at Columbia using the following address (only use this address in an emergency and discuss with your BG contact in good time.  Note that they should arrive the day before the Beamline responsible leaves for the experiment.
 
-Beamtime responsible: Songsheng Tao & Connor Bracy
-
-BG contact person: Your scientific project partner in the Billinge group
-
-1. Read the information on this webpage to get an overview of what to do. There are instructions for the sample loading and shipping. Take note of any questions or concerns you have.
-2. Meet with contact person in BG to discuss sample loading and shipment.
-
-  a. What sample holders are needed (glass, Kapton etc), do you have them available?
-  #. How do you plan on packaging them for shipping?
-  #. Will the samples be difficult to prepare in any way? Stickiness, large grain size, only small amount of powder etc?
-  #. Where will the samples be sent - to Columbia University or directly to BNL?
-
-3. Fill in the sample information `Google Form <https://docs.google.com/forms/d/e/1FAIpQLSfHb-ASZHIcwedvKZz-z-6hQ6BO7fgUq2dai07DOY-XDt5jrg/viewform?usp=sf_link>`_.
-
-  a.Make sure each sample is listed with content, label and container type (glass/Kapton etc).
-  #. Make sure to list the backgrounds. A background is a clean and empty sample holder  of the same type that you used for the samples. If you used more than one type, a background holder needs to be added for each.
-
-4. Load the samples according to the agreement and the information you put in the Google Form.
-
-  a. Follow instructions for getting powder into tubes in the video link below.
-  #. For each sample holder type (glass, Kapton etc) include a clean and empty holder that can be used for background measurement.
-  #. Label each sample according to the information in the Google Form such that it is clear what it contains (don't forget to label the backgrounds!). If you cannot fit a good enough description on the sample label itself, use numbers or letter on the label and then include a note that explains what each number/letter corresponds to. See instruction for labeling in the video link below.
-
-5. Take a picture of the samples and their labels.
-6. Package the samples. Use bubble wrap/cotton balls or similar for shock absorption.
-7. Take a picture of the entire content.
-8. Package the samples snuggly in an appropriate box or padded envelope.
-9. Send your packages.
-
-  a. If you will send the package to Columbia University, below is the address.
-
+	  | <name of the beamtime responsible>
     | Columbia University
-    | 1105 S.W. Mudd
+    | APAM department
+    | 200 S. W. Mudd Building, MC 4701
     | 500 W 120th St
     | New York, NY 10027
 
-  b. If you will send the package to BNL, please wait for the beamline responsible to send you **the samples shipping label**. Print out the shipping label and attach the upper part outside the package.
+* Double and triple check the details of the address as packages get lost at BNL and Columbia.  DO NOT GUESS.
+* If you have any questions or issues, contact the Beamline responsible or your BG group contact 
 
-    | NSLS-II
-    | 740 Brookhaven Avenue
-    | Bldg. 740 – Loading Dock
-    | Upton, NY 11973-5000
+9. **Take a picture of the finished package with its shipping label.**
+10. **Send all three pictures to your BG contact person and beamtime responsible and wait for them to give thumbs up that everything looks alright.**
+11. **make sure to follow guidelines for shipping chemicals**
+* If you have MSDS’s, please include them.  
+* If samples are hazardous, follow all rules of the shipping company and BNL for shipping hazardous materials.  MSDS’s are likely required in this case and other packaging rules may have to be followed.
+12. **Ship your package!**
 
-10. Send all three pictures to your BG contact person and beamtime responsible and wait for them to give thumbs up that everything looks alright.
-11. Post your package!
 
+.. _the section on sample preparation
 Load powder into capillaries
 ----------------------------
 
@@ -74,7 +94,7 @@ Below, we list the technical standard for the sample loading at 28-ID-1 and 28-I
 
 #. Each sample in its capillary should be in one vial/Ziplock pouch/container along with the sample number label
 
-#. Labels should be less than 5mm wide and attached as close as possible on the top side. Place tags at 2 different heights so that samples can be mounted in a consecutive order with alternating tag positions: high, low, high etc.(as shown in the picture) – otherwise labels of adjacent capillaries touch each other.
+#. Labels should be less than 5mm wide and attached as close as possible on the top side. Place tags at 2 different heights so that samples can be mounted in a consecutive order with alternating tag positions: high, low, high etc.(as shown in the picture) - otherwise labels of adjacent capillaries touch each other.
 
 #. Sample capillaries will be inserted into the multiple sample holder (as show in the picture below). Each holder can hold max 45 including a calibrant on both side (43 + 2).
 
