@@ -21,7 +21,7 @@ Experiment Critical deadlines
 
 Checklist for Collaborators
 ---------------------------
-#. **Meet with your contact person in BG to discuss experimental plan**
+1. **Meet with your contact person in BG to discuss experimental plan**
 
   * Generate list of all samples including calibration and empty container samples (for background)
   * Temperatures, temperature ranges, special environments
@@ -30,13 +30,13 @@ Checklist for Collaborators
   * Will the samples be difficult to prepare in any way? Stickiness, large grain size, only small amounts of powder etc?
   * Where will the samples be sent - BG beamtime responsible or directly to BNL (see below) and when should they be sent?
   
-#. **Submit the Detailed Experiment Plan Information using the `Google Form <https://forms.gle/cMGgdg8PFwBoareC9>`_**
+2. **Submit the Detailed Experiment Plan Information using the** `Google Form <https://forms.gle/cMGgdg8PFwBoareC9>`_
 
   * Submit the form once for every individual sample.  This information is used to generate the scan-plans which is why we need one for each sample.
   * Additionally submit the form once for every different background sample, e.g., an empty sample container.
   * If you need multiple different scan plans for the same sample, enter these separately as if they were different samples (ask BG contact for clarification)
   
-#. **Prepare the samples in your laboratory.**
+3. **Prepare the samples in your laboratory.**
 
   * Check with BG contact for best loading strategy, e.g., temperature appropriate container materials
   * Instructions for loading powder into tubes can be found in `the section on sample preparation`.
@@ -44,22 +44,22 @@ Checklist for Collaborators
   * As needed, include spare samples and holders in case of breakage 
   * Label each sample with the sample-name that was entered in the Google Form (don't forget to label the backgrounds!). If you cannot fit a good enough description on the sample itself, use a code on the label and then include a note in the shipping package that links each code to the sample name in the form. See instruction for labeling in `the section on sample preparation`.
   
-#. **Take a picture of the samples and their labels**
+4. **Take a picture of the samples and their labels**
    
   * Send the picture to your BG contact and the BG experiment responsible
   
-#. **Wrap the individual samples in protective material**
+5. **Wrap the individual samples in protective material**
    
   * Use bubble wrap/cotton balls or similar for shock absorption to secure the samples
   * If you have glass capillaries inside glass jars, stuff cotton padding around it so it doesn't shake around.
   
-#. **Take a picture of all the individually padded/secured samples**
+6. **Take a picture of all the individually padded/secured samples**
 
   * Send the picture to your BG contact and the BG experiment responsible
   
-#. **Package the samples snuggly in an appropriate box or padded envelope**
+7. **Package the samples snuggly in an appropriate box or padded envelope**
 
-#. **Prepare the shipping label.**
+8. **Prepare the shipping label.**
 
   * Samples should be shipped using tracked services such as FedEx.
   * Samples arriving at BNL but not making it to the beamline because of an incomplete shipping label, or arriving too late, are the most common point of failure.  Please pay close attention to the instructions for labeling and shipping samples.
@@ -76,16 +76,16 @@ Checklist for Collaborators
   * Double and triple check the details of the address as packages get lost at BNL and Columbia.  DO NOT GUESS.
   * * If you have any questions or issues, contact the Beamline responsible or your BG group contact 
 
-#. **Take a picture of the finished package with its shipping label.**
+9. **Take a picture of the finished package with its shipping label.**
 
-#. **Send all three pictures to your BG contact person and beamtime responsible and wait for them to give thumbs up that everything looks alright.**
+10. **Send all three pictures to your BG contact person and beamtime responsible and wait for them to give thumbs up that everything looks alright.**
 
-#. **make sure to follow guidelines for shipping chemicals**
+11. **make sure to follow guidelines for shipping chemicals**
 
   * If you have MSDS’s, please include them.  
   * If samples are hazardous, follow all rules of the shipping company and BNL for shipping hazardous materials.  MSDS’s are likely required in this case and other packaging rules may have to be followed.
 
-#. **Ship your package!**
+12. **Ship your package!**
 
 
 Load powder into capillaries
@@ -99,7 +99,9 @@ Please watch the following two videos on how to load powder into capillaries.
 
 Here, we have some notes for the video:
 
-#. In the video, the eproxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
+1. Kapton tubes can be bounght online from several vendors. `This link <https://www.coleparmer.com/i/masterflex-transfer-tubing-polyimide-0-0360-id-x-0-0400-od-12-l-5-pk/9582008>`_ is where to buy the 0.0360" ID x 0.0400" OD, 12"L; 5/PK from cole-parmer.
+
+#. In the video, the epoxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
 
 #. A labeled flag can be attached to the top of the capillaries so that it will be easier to identify the sample.
 
