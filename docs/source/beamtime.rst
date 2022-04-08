@@ -101,7 +101,7 @@ Here, we have some notes for the video:
 
 1. Kapton tubes can be bounght online from several vendors. `This link <https://www.coleparmer.com/i/masterflex-transfer-tubing-polyimide-0-0360-id-x-0-0400-od-12-l-5-pk/9582008>`_ is where to buy the 0.0360" ID x 0.0400" OD, 12"L; 5/PK from cole-parmer.
 
-#. In the video, the eproxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
+#. In the video, the epoxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
 
 #. A labeled flag can be attached to the top of the capillaries so that it will be easier to identify the sample.
 
