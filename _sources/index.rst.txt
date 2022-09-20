@@ -10,3 +10,4 @@ Welcome to the notice board of Billinge Group!
    :maxdepth: 2
 
    beamtime
+   register
