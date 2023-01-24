@@ -4,7 +4,7 @@ Beamtime Information
 
 Contacts in the Billinge-group
 ------------------------------
-* Beamtime responsible (on-site at experiment): **Connor Bracy (cjb2250@columbia.edu)**
+* Beamtime responsible (on-site at experiment): **Simon Billinge (sb2896@columbia.edu)**
 * BG contact person (not necessarily on-site at experiment): Your scientific project partner in the Billinge group
 
 
