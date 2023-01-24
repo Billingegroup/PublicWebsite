@@ -30,7 +30,7 @@ Checklist for Collaborators
   * Will the samples be difficult to prepare in any way? Stickiness, large grain size, only small amounts of powder etc?
   * Where will the samples be sent - BG beamtime responsible or directly to BNL (see below) and when should they be sent?
   
-2. **Submit the Detailed Experiment Plan Information using the** `Google Form <https://forms.gle/cMGgdg8PFwBoareC9>`_
+2. **Submit the Detailed Experiment Plan Information using the** `Google Form <https://docs.google.com/forms/d/1YO0F4fKt-Q1qPMsG1md7fAdkfLH0mO42PFLW0-zQi5Y/edit>`_
 
   * Submit the form once for every individual sample.  This information is used to generate the scan-plans which is why we need one for each sample.
   * Additionally submit the form once for every different background sample, e.g., an empty sample container.
