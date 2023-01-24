@@ -4,7 +4,7 @@ Beamtime Information
 
 Contacts in the Billinge-group
 ------------------------------
-* Beamtime responsible (on-site at experiment): **Connor Bracy (cjb2250@columbia.edu)**
+* Beamtime responsible (on-site at experiment): **Simon Billinge (sb2896@columbia.edu)**
 * BG contact person (not necessarily on-site at experiment): Your scientific project partner in the Billinge group
 
 
@@ -30,7 +30,7 @@ Checklist for Collaborators
   * Will the samples be difficult to prepare in any way? Stickiness, large grain size, only small amounts of powder etc?
   * Where will the samples be sent - BG beamtime responsible or directly to BNL (see below) and when should they be sent?
   
-2. **Submit the Detailed Experiment Plan Information using the** `Google Form <https://forms.gle/cMGgdg8PFwBoareC9>`_
+2. **Submit the Detailed Experiment Plan Information using the** `Google Form <https://docs.google.com/forms/d/1YO0F4fKt-Q1qPMsG1md7fAdkfLH0mO42PFLW0-zQi5Y/edit>`_
 
   * Submit the form once for every individual sample.  This information is used to generate the scan-plans which is why we need one for each sample.
   * Additionally submit the form once for every different background sample, e.g., an empty sample container.
@@ -88,8 +88,8 @@ Checklist for Collaborators
 12. **Ship your package!**
 
 
-Load powder into capillaries
-----------------------------
+Sample prep notes
+-----------------
 
 Please watch the following two videos on how to load powder into capillaries.
 
@@ -98,8 +98,40 @@ Please watch the following two videos on how to load powder into capillaries.
 `Loading samples II: Filling capillary <https://www.youtube.com/watch?v=5JBTw4kEXGY>`_
 
 Here, we have some notes for the video:
+1. Here are the temperature ranges where different capillary materials can be used
 
-1. Kapton tubes can be bounght online from several vendors. `This link <https://www.coleparmer.com/i/masterflex-transfer-tubing-polyimide-0-0360-id-x-0-0400-od-12-l-5-pk/9582008>`_ is where to buy the 0.0360" ID x 0.0400" OD, 12"L; 5/PK from cole-parmer.
+.. list-table:: Title
+   :widths: 25 25 50
+   :header-rows: 1
+
+   * - Temperature Range
+     - Type of sample
+     - Description of capillary
+   * - 4K - 510K
+     - Solid 
+     - Kapton tube
+   * - 193K - 670K 
+     - Liquid 
+     - borosilicate NMR tube
+   * - 193K - 670K 
+     - Solid
+     - Liquid borosilicate glass tube
+   * - ?K ~ 1373K
+     - Solid, Liquid
+     - quartz glass tube
+
+1. Standard tube diameter is 1 mm OD (0.0400" OD).  For kapton, get the thinnest wall thickness you can.  For Quartz, there
+   is a tradeoff.  Thinner walls scatter less but make the capillaries very brittle and difficult to handle. Because our experiments
+   use hard radiation it is often a good tradeoff to go with glass-walled tubes that have slightly thicker walls.
+
+1. For weakly scattering samples we often use 2 mm diameter OD tubes to get more sample in the beam.  Make sure they are not too thin walled
+   in this case.  We also use 2 or 3 mm OD NMR tubes even though they have somewhat thick walls.  They are much easier to handle.
+
+1. Kapton tubes can be bought online from several vendors. `This link <https://www.coleparmer.com/i/masterflex-transfer-tubing-polyimide-0-0360-id-x-0-0400-od-12-l-5-pk/9582008>`_ is where to buy the 0.0360" ID x 0.0400" OD, 12"L; 5/PK from cole-parmer.
+
+#. Quartz and/or lower scattering borosilicate capillaries are available from various vendors.  Search for "quartz capillaries for x-ray diffraction".  Some vendors are `Charles Supper <http://www.charles-supper.com/en/page/product.cfm?idProduct=17>`_ or `Hampton Research <https://hamptonresearch.com/product-Quartz-Capillaries-325.html>`_
+
+#. NMR tubes are widely available, e.g., from Sigma Aldrich
 
 #. In the video, the epoxy is used to seal the capillaries. Sticky clay can be used to seal the capillaries as well.
 
@@ -109,7 +141,7 @@ Below, we list the technical standard for the sample loading at 28-ID-1 and 28-I
 
 #. We will be using capillaries only of size (OD) ~ 1 mm (~0.0402”), ~1.2mm (0.0435”), ~1.5mm (~0.0615”), or ~2mm (~0.075”).
 
-#. The capillaries must have the proper length. Powder must be packed inside the capillary as per the drawing below.
+#. The capillaries must have the proper length. This depends if it is going in a crysostat/furnace or not.  In the cryostream the tubes can be 3.5 cm or more in length.  Powder must be packed inside the capillary as per the drawing below.
 
 #. Each sample in its capillary should be in one vial/Ziplock pouch/container along with the sample number label
 
