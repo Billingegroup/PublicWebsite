@@ -68,8 +68,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'PublicWebsite'
-copyright = '2021, Songsheng Tao'
-author = 'Songsheng Tao'
+copyright = '2021-2023, Songsheng Tao, Simon Billinge'
+author = 'Songsheng Tao, Simon Billinge'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
