@@ -120,7 +120,7 @@ Here, we have some notes for the video:
      - Solid, Liquid
      - quartz glass tube
 
-1. Standard tube diameter is 1 mm OD (0.0400" OD).  For kapton, get the thinnest wall thickness you can.  For Quartz, there
+1. Standard tube diameter is  1 mm OD (0.0400" OD).  For kapton, get the thinnest wall thickness you can.  For Quartz, there
    is a tradeoff.  Thinner walls scatter less but make the capillaries very brittle and difficult to handle. Because our experiments
    use hard radiation it is often a good tradeoff to go with glass-walled tubes that have slightly thicker walls.
 
