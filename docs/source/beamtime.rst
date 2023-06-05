@@ -128,7 +128,7 @@ Here, we have some notes for the video:
 1. For weakly scattering samples we often use 2 mm diameter OD tubes to get more sample in the beam.  Make sure they are not too thin walled
    in this case.  We also use 2 or 3 mm OD NMR tubes even though they have somewhat thick walls.  They are much easier to handle.
 
-1. Kapton tubes can be bought online from several vendors. `This link <https://www.coleparmer.com/i/masterflex-transfer-tubing-polyimide-0-0360-id-x-0-0400-od-12-l-5-pk/9582008>`_ is where to buy the 0.0360" ID x 0.0400" OD, 12"L; 5/PK from cole-parmer.
+1. Kapton tubes can be bought online from several vendors. Search for "kapton" or "polyimide".  In the UK, Phil Cater recommends Lewvac (https://www.lewvac.co.uk/product/polyimide-tubes/).
 
 #. Quartz and/or lower scattering borosilicate capillaries are available from various vendors.  Search for "quartz capillaries for x-ray diffraction".  Some vendors are `Charles Supper <http://www.charles-supper.com/en/page/product.cfm?idProduct=17>`_ or `Hampton Research <https://hamptonresearch.com/product-Quartz-Capillaries-325.html>`_
 
